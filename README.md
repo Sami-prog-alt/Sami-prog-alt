@@ -54,5 +54,5 @@
 
 ---
 
-<!-- Optional: Snake contribution animation -->
+<!-- Snake contribution animation -->
 ![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
